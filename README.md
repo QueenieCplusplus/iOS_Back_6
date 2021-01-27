@@ -19,5 +19,5 @@ Async Downloader in Background
 
 3. output
 
-  ！[](https://github.com/QueenieCplusplus/iOS_Back_6/blob/main/output.png)
+  ![](https://github.com/QueenieCplusplus/iOS_Back_6/blob/main/output.png)
 
