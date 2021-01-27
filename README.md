@@ -1,7 +1,7 @@
 # iOS_Back_6
 Async Downloader in Background
 
-1. setup in Info Property List, however this setup value will effects the apps approval before the release phase.
+1. setup in Info Property List, however this setup value effects the apps approval before the release phase.
 
    ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_6/main/info%20property%20list.png)
 
