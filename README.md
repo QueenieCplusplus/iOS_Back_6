@@ -1,5 +1,5 @@
 # iOS_Back_6
-Async Downloader in Background
+Async Downloader in Background using URLSessionDownloadTask.
 
 1. setup in Info Property List, however this setup value effects the apps approval before the release phase.
 
