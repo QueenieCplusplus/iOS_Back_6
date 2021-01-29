@@ -24,3 +24,6 @@ Async Downloader in Background using URLSessionDownloadTask.
 4. ref
 
    https://zh-tw.coderbridge.com/series/01d31194cb3c428d9ca2575c91e8b997/posts/c44ba1db0ded4d53aec73a8e589ca1e5
+
+5. allow Download Task running in Background.
+
